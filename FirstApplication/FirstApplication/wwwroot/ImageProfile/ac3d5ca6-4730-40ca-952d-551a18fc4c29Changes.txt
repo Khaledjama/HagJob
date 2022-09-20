@@ -1,0 +1,43 @@
+Add Question To IUnitOfWork and UnitOfWork 
+
+2- Auto mapper for Question and QuestionVm
+2 - ApplyJobController copy All Changes
+3 - create new controller that name is MyApplyJob 
+4- Add Style in wwroot Css MyApplyjob
+5 - Add IApplyJobReprositry and Add ApplyJobReporositry 
+6- Adding it in the UnitofWork 
+7 - Add number5 in strartUp
+8 - Change database for ApplyJob and ApplyJobVm
+9 - Add ApplyJobcshtml 
+10 - Add ViewAllJobscs.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+المفروض اول ما الادمن بتع الجوب يدخل يعمل عملية قفل الطلبات علي الوظيفة 
+اوتماتيك يمسح الوظائف الموجودة ف ال ApplyJob
